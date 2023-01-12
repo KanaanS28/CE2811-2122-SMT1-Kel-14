@@ -2,9 +2,6 @@
 # Matakuliah Komunikasi Data
 
 Kelompok 13:
-
-Jasmien (2122031)
-
-Kanaan Sinaga (2122017)
-
-Amran Joel Lumbatobing (2122014)
+- Jasmien (2122031)
+- Kanaan Sinaga (2122017)
+- Amran Joel Lumbatobing (2122014)
